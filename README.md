@@ -1,2 +1,1 @@
-# git-crash-course
-# This is for PR testing
+# README - rebranded
